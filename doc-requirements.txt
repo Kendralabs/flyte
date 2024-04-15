@@ -41,7 +41,7 @@ grpcio-status==1.48.2
     # via -r doc-requirements.in
 identify==2.5.17
     # via pre-commit
-idna==3.4
+idna==3.7
     # via requests
 imagesize==1.4.1
     # via sphinx
