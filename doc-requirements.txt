@@ -14,7 +14,7 @@ beautifulsoup4==4.11.2
     # via
     #   furo
     #   sphinx-code-include
-certifi==2022.12.7
+certifi==2024.7.4
     # via requests
 cfgv==3.3.1
     # via pre-commit
